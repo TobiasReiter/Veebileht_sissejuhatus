@@ -1,3 +1,9 @@
+// https://www.youtube.com/watch?v=XQEfWd1lh4Q video, mille järgi tehtud
+// Kuna algne kood töötas ainult ühe nupu kohta, siis iga nupu jaoks võtsime
+// eraldi muutujad.
+// Kahe erineval html-failil oli vaja ka erinevaid js-faile, mistõttu
+// on ka kas javascripti faili.
+
 var sisu7 = document.getElementById("sisudiscgolf");
 var sisu8 = document.getElementById("sisustaadionid");
 var sisu9 = document.getElementById("sisuvälijõusaalid");
