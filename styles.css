@@ -1,0 +1,55 @@
+html {
+    background-image:url("https://wallpapermemory.com/uploads/787/cool-sports-background-hd-2048x1080-131322.jpg");
+    background-size: cover;
+}
+
+h1 {
+    color:rgb(0, 255, 0);
+    text-align: center;
+    font-family: "Courier New", monospace;
+    font-size: 70px;
+}
+
+h2 {
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-family: "Courier New", monospace;
+}
+
+.pilt1 {
+    background-image: url("https://www.myfitness.ee/wp-content/uploads/2016/06/10816_orig.jpg");
+    background-size: cover;
+}
+
+.pilt2 {
+    background-image: url("https://f10.pmo.ee/fwz1yi_UYOBoM75jOtVgO29jU2E=/1200x630/filters:focal(1230x591:2339x1089)/nginx/o/2019/07/10/12351151t1h7a0c.jpg");
+    background-size: cover;
+}
+
+.põhi {
+    position: fixed;
+    top: 20%;
+    left: 50%;
+    -ms-transfrom: translateX(-50%);
+    transform: translateX(-50%);
+}
+
+.kast {
+    width: 200px;
+    height: 150px
+}
+
+.kast1asetus {
+    position: fixed;
+    top: 60%;
+    left: 50%;
+    margin-left: -300px;
+}
+
+
+.kast2asetus {
+    position: fixed;
+    top: 60%;
+    left: 50%;
+    margin-left: 75px;
+}
