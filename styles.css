@@ -19,11 +19,13 @@ h2 {
 .pilt1 {
     background-image: url("https://www.myfitness.ee/wp-content/uploads/2016/06/10816_orig.jpg");
     background-size: cover;
+    border-radius: 30%;
 }
 
 .pilt2 {
     background-image: url("https://f10.pmo.ee/fwz1yi_UYOBoM75jOtVgO29jU2E=/1200x630/filters:focal(1230x591:2339x1089)/nginx/o/2019/07/10/12351151t1h7a0c.jpg");
     background-size: cover;
+    border-radius: 30%;
 }
 
 .põhi {
