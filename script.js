@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // https://www.youtube.com/watch?v=XQEfWd1lh4Q video, mille järgi tehtud
 // Kuna algne kood töötas ainult ühe nupu kohta, siis iga nupu jaoks võtsime
 // eraldi muutujad.
@@ -101,3 +102,8 @@ button8.onclick = function(){
         button8.innerHTML = "Näita Vähem";
     }
 };
+=======
+function klikk(){
+    document.getElementById("kast1").innerHTML = "Wut";
+}
+>>>>>>> origin/master
